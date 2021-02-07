@@ -2,11 +2,7 @@
     margin: auto;
     padding: 0px;
 }
-.option{
-    height: 80px;
-    width: auto;
-    background: #30475e;
-}
+
 
 .list > button{
 height: 40px;
@@ -15,6 +11,7 @@ text-align: center;
 border: none;
 margin: 10px auto;
 cursor: pointer;
+float: left;
 
 }
 
@@ -25,4 +22,5 @@ text-align: center;
 border: none;
 margin: 10px auto;
 cursor: pointer;
+float: right;
 }
