@@ -1,9 +1,28 @@
 .container-fluid {
     margin: auto;
-    background-color: #30475e;
+    padding: 0px;
 }
 .option{
-    height: 100px;
+    height: 80px;
     width: auto;
     background: #30475e;
+}
+
+.list > button{
+height: 40px;
+width: 40px;
+text-align: center;
+border: none;
+margin: 10px auto;
+cursor: pointer;
+
+}
+
+.galery > button{
+height: 40px;
+width: 40px;
+text-align: center;
+border: none;
+margin: 10px auto;
+cursor: pointer;
 }
