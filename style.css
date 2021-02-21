@@ -25,3 +25,28 @@ cursor: pointer;
 float: right;
 }
 
+
+.ficha{
+    margin: 25px auto;
+    background: white;
+    padding: 0px;
+    height: 490px;
+    width: 450px;
+}
+
+
+.titulo-ficha{
+    padding-top:1px;
+    padding-left: 10px;
+    display: inline;
+    height: 100px;
+    width: 300px;
+    float: left;
+}
+
+.enumeracion-ficha{
+    color: gray;
+    text-align: right;
+    float: right;
+}
+
