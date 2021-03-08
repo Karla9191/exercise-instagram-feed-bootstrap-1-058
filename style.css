@@ -50,3 +50,114 @@ float: right;
     float: right;
 }
 
+
+.post{
+    height: 700px;
+    width: 500px;
+    margin: 50px auto;
+    border-style: solid;
+}
+.post-header{
+    
+    height: 70px;
+    width: 500px;
+}
+.icon{
+   
+    height: 50px;
+    width: 50px;
+    float: left;
+    padding: 5px 5px;
+    margin:5px;
+    font-size: 50px;
+    text-align: center;
+}
+.title{
+    
+    float: left;
+    height: 50px;
+    width: 100px;
+    padding: 5px 5px;
+    margin:5px;
+    text-align: left;
+    line-height: 0.2; 
+ 
+}
+.settings{
+   
+    float: right;
+    height: 50px;
+    width: 290px;
+    padding: 5px 5px;
+    margin:5px;
+    font-size: 50px;
+    text-align: right;
+
+}
+
+.post-img{
+    
+    height: 400px;
+    width: 500px;
+}
+
+
+.post-body{
+   
+    height: 230px;
+    width: 500px;
+}
+.post-font{
+    
+    height: 70px;
+    width: 500px;
+}
+.heart{
+    
+    height: 50px;
+    width: 50px;
+    float: left;
+    padding: 5px 5px;
+    margin:5px;
+    font-size: 50px;
+    text-align: center;
+}
+.message{
+    
+    height: 50px;
+    width: 50px;
+    float: left;
+    padding: 5px 5px;
+    margin:5px;
+    font-size: 50px;
+    text-align: center;
+}
+.send{
+    
+    height: 50px;
+    width: 50px;
+    float: left;
+    padding: 5px 5px;
+    margin:5px;
+    font-size: 50px;
+    text-align: center;
+}
+.save{
+  
+    height: 50px;
+    width: 50px;
+    float: right;
+    padding: 5px 5px;
+    margin:5px;
+    font-size: 50px;
+    text-align: center;
+}
+.text{
+   
+    height: 155px;
+    width: 490px;
+    float: left;
+    margin:2px;
+}
+
+
